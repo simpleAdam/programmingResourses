@@ -12,8 +12,8 @@ resources for learning or practicing programming online
 [typescript playground](https://www.typescriptlang.org/play)
 
 ### IDE Environments
-[webAssembly](https://webassembly.studio)
-[codesandbox](https://codesandbox.io/)
-[stackblitz](https://stackblitz.com)
-[glitch](https://glitch.com)
-[codepen](https://codepen.io/your-work)
+- [webAssembly](https://webassembly.studio)
+- [codesandbox](https://codesandbox.io/)
+- [stackblitz](https://stackblitz.com)
+- [glitch](https://glitch.com)
+- [codepen](https://codepen.io/your-work)
