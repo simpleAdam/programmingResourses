@@ -1,5 +1,6 @@
 # programmingResourses
-resources for learning or practicing programming online
+## web development anyway
+resources for learning or practicing programming/webdev online
 
 
 ### Lint Javascript
@@ -20,3 +21,6 @@ resources for learning or practicing programming online
 - [stackblitz](https://stackblitz.com)
 - [glitch](https://glitch.com)
 - [codepen](https://codepen.io/your-work)
+
+### Flavio
+[various tutorials](https://flaviocopes.com)
