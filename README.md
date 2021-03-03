@@ -22,5 +22,11 @@ resources for learning or practicing programming/webdev online
 - [glitch](https://glitch.com)
 - [codepen](https://codepen.io/your-work)
 
-### Flavio
-[various tutorials](https://flaviocopes.com)
+### Design
+[Figma](https://www.figma.com)
+
+### Machine Learning
+[kaggle](https://www.kaggle.com)
+
+### Tutorials
+[Flavio](https://flaviocopes.com)
