@@ -26,8 +26,8 @@ resources for learning or practicing programming/webdev online
 [Figma](https://www.figma.com)
 
 ### Machine Learning
-[kaggle](https://www.kaggle.com)
-[Google CoLab](https://colab.research.google.com)
+ - [kaggle](https://www.kaggle.com)
+ - [Google CoLab](https://colab.research.google.com)
 
 ### Tutorials
 [Flavio](https://flaviocopes.com)
