@@ -1,5 +1,5 @@
 # programmingResourses
-## web development anyway
+## well web development resources anyway
 resources for learning or practicing programming/webdev online
 
 
@@ -31,3 +31,6 @@ resources for learning or practicing programming/webdev online
 
 ### Tutorials
 [Flavio](https://flaviocopes.com)
+
+### HTML
+[some HTML information](https://htmlcheatsheet.com/)
