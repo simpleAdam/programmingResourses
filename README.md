@@ -34,3 +34,6 @@ resources for learning or practicing programming/webdev online
 
 ### HTML
 [some HTML information](https://htmlcheatsheet.com/)
+
+### Functional Programming
+[Egghead.io Dr Frisby](https://egghead.io/courses/professor-frisby-introduces-composable-functional-javascript)
