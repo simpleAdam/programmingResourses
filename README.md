@@ -38,3 +38,7 @@ resources for learning or practicing programming/webdev online
 
 ### Functional Programming
 [Egghead.io Dr Frisby](https://egghead.io/courses/professor-frisby-introduces-composable-functional-javascript)
+
+
+
+[A](https://www.30secondsofcode.org)
