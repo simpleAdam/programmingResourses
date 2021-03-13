@@ -31,6 +31,7 @@ resources for learning or practicing programming/webdev online
 
 ### Tutorials
 [Flavio](https://flaviocopes.com)
+[SurviveJS](https://survivejs.com)
 
 ### HTML
 [some HTML information](https://htmlcheatsheet.com/)
