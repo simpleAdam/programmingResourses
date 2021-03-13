@@ -32,6 +32,7 @@ resources for learning or practicing programming/webdev online
 ### Tutorials
 [Flavio](https://flaviocopes.com)
 [SurviveJS](https://survivejs.com)
+[Javascript](https://www.30secondsofcode.org)
 
 ### HTML
 [some HTML information](https://htmlcheatsheet.com/)
@@ -39,6 +40,3 @@ resources for learning or practicing programming/webdev online
 ### Functional Programming
 [Egghead.io Dr Frisby](https://egghead.io/courses/professor-frisby-introduces-composable-functional-javascript)
 
-
-
-[A](https://www.30secondsofcode.org)
