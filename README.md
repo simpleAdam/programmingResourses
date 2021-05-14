@@ -38,6 +38,9 @@ resources for learning or practicing programming/webdev online
 
 [terminal](https://www.youtube.com/playlist?list=PL1H1sBF1VAKUsYdQd94dO9MgSaY2p1AJ4)
 
+[Youtube Jen Simmons](https://www.youtube.com/channel/UC7TizprGknbDalbHplROtag)
+[Youtube Mozilla Developers](https://www.youtube.com/channel/UCh5UlGiu9d6LegIeUCW4N1w)
+
 ### HTML
 [some HTML information](https://htmlcheatsheet.com/)
 
