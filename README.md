@@ -36,7 +36,9 @@ resources for learning or practicing programming/webdev online
 [Flavio](https://flaviocopes.com)
 [SurviveJS](https://survivejs.com)
 [Javascript](https://www.30secondsofcode.org)
-[publish on npm. Egghead.io](https://egghead.io/courses/how-to-write-an-open-source-javascript-library)
+
+[how publish on npm Egghead.io](https://egghead.io/courses/how-to-write-an-open-source-javascript-library)
+
 [Vim](https://www.youtube.com/playlist?list=PLm323Lc7iSW_wuxqmKx_xxNtJC_hJbQ7R)
 
 [terminal](https://www.youtube.com/playlist?list=PL1H1sBF1VAKUsYdQd94dO9MgSaY2p1AJ4)
