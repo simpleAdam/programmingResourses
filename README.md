@@ -2,6 +2,8 @@
 ## well web development resources anyway
 resources for learning or practicing programming/webdev online
 
+### Git
+[swcarpentry](https://swcarpentry.github.io/git-novice/)
 
 ### Lint Javascript
 [eslint online](https://eslint.org/demo)
